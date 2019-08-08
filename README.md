@@ -1,6 +1,6 @@
 # Path Plugin
 
-Output a list of paths for all leaf nodes to standard out.
+Output a list of paths for all leaf nodes to standard out. Based on xpath plugin from [Einar's Repo pyang-plugins](https://github.com/einarnn/pyang-plugins)
 
 ## Install Instructions ##
 
